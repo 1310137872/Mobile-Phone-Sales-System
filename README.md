@@ -48,9 +48,11 @@
  **2.  管理端** 
  
 **后台登录** 
-![输入图片说明](%E7%99%BB%E5%BD%95.png)
+![登录](https://github.com/1310137872/Mobile-Phone-Sales-System/assets/122133977/23010bec-a31a-45b0-ab0e-abeb5b4c4d9e)
+
 
  **后台功能** 
+![后台](https://github.com/1310137872/Mobile-Phone-Sales-System/assets/122133977/bdcd8225-99e6-4abb-8077-32fe756f8499)
 
 
 #### 四、联系方式
